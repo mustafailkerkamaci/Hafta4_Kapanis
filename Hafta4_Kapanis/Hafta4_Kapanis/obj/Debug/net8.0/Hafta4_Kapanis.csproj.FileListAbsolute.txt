@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\bin\Debug\net8.0\Hafta4_Kapanis.exe
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\bin\Debug\net8.0\Hafta4_Kapanis.deps.json
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\bin\Debug\net8.0\Hafta4_Kapanis.runtimeconfig.json
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\bin\Debug\net8.0\Hafta4_Kapanis.dll
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\bin\Debug\net8.0\Hafta4_Kapanis.pdb
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\Hafta4_Kapanis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\Hafta4_Kapanis.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\Hafta4_Kapanis.AssemblyInfo.cs
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\Hafta4_Kapanis.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\Hafta4_Kapanis.sourcelink.json
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\Hafta4_Kapanis.dll
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\refint\Hafta4_Kapanis.dll
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\Hafta4_Kapanis.pdb
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\Hafta4_Kapanis.genruntimeconfig.cache
+C:\Users\musta\source\repos\Hafta4_Kapanis\Hafta4_Kapanis\obj\Debug\net8.0\ref\Hafta4_Kapanis.dll
